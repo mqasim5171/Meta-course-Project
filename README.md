@@ -1,1 +1,1 @@
-# Meta-course-Project
+# meta-proj
